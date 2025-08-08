@@ -1,4 +1,3 @@
-
 import { SquareValue } from '../types';
 
 export const calculateWinner = (squares: SquareValue[]): { winner: SquareValue, line: number[] } | null => {

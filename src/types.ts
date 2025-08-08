@@ -1,4 +1,3 @@
-
 export type SquareValue = 'X' | 'O' | null;
 
 export enum GameMode {
